@@ -1,0 +1,2 @@
+# python-project
+magic squares
